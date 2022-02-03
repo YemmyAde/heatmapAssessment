@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.react-calendar-heatmap .g-1 {
+  fill: #00FF7F;
+}
+.react-calendar-heatmap .g-2 {
+  fill: #006400;
+}
+
+.react-calendar-heatmap .r-1 {
+  fill: #F08080;
+}
+
+.react-calendar-heatmap .r-2 {
+  fill: #e41e1e;
+}
